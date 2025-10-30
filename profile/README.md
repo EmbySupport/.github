@@ -14,11 +14,10 @@ In case you came here by accident, you probably want to go to the [Primary Emby 
 
 #### Security Vulnerability Reporting
 
-Want to report a security vulnerability in Emby software?
-
+Want to report a security vulnerability in Emby software?  
 Please visit our [Security Repository](https://github.com/EmbySupport/security) to privately report and disclose security incidents.
 
 
-<p><sub>&nbsp<s/ub>;</p>
+<p><sub>&nbsp;</sub></p>
 
 <sub>[Emby Home](https://emby.media/) &nbsp; | &nbsp; [Latest News](https://emby.media/community/index.php?/blogs/) &nbsp; | &nbsp; [Emby Downloads](https://emby.media/download.html) &nbsp; | &nbsp; [Emby Community Forums](https://emby.media/community/) &nbsp; | &nbsp; © 2025 Emby LLC</sub>
