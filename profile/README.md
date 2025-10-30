@@ -14,7 +14,7 @@ This is the [EmbySupport](https://github.com/EmbySupport) GitHub organization wh
 
 In case you came here by accident, you probably want to go to the [Primary Emby Home on GitHub](https://github.com/MediaBrowser) (still named MediaBrowser)
 
-### Security Reporting
+### Security Vulnerability Reporting
 
 Want to report a security vulnerability in Emby software?
 
